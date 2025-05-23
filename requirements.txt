@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 streamlit
 langchain
 langchain-openai
@@ -13,7 +12,6 @@ pydantic
 tqdm
 markdown2
 watchdog
-=======
 langchain
 langchain-openai
 openai
@@ -24,4 +22,3 @@ streamlit
 chromadb
 pandas
 langchain_community
->>>>>>> ed68b2e3fd133a2cefa6575a3404c6442325413a
